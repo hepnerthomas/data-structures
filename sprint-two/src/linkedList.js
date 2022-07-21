@@ -105,6 +105,6 @@ var Node = function(value) {
  * Complexity: What is the time complexity of the above functions?
  */
 
-// addToTail:
-// removeHead:
-// contains:
+// addToTail: O(1) - constant number of operations regardless of the size of the Linked List
+// removeHead: O(1) - constant number of operations regardless of the size of the Linked List
+// contains: O(n) - iterates through n elements of the Linked List
